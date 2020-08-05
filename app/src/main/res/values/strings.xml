@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GitHub Kotlin Repos</string>
+    <string name="oauthUrl">https://github.com/login/oauth/authorize</string>
+    <string name="clientId">1ec3e5f1677bdb947131</string>
+    <string name="clientSecret">d0dfa7fbce185965c1626f9714c526cc597eacd6</string>
+    <string name="callbackUrl">githubrepos://callback</string>
+    <string name="error_text">Error</string>
+    <string name="btn_auth_text">Iniciar</string>
+</resources>
